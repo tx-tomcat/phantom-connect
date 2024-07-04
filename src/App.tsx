@@ -4,7 +4,6 @@ import Layout from "./components/Layout";
 import ConnectButton from "./components/ConnectButton";
 import AccountModal from "./components/AccountModal";
 import { getPhantomProvider, PhantomProvider } from "./providers";
-
 import "@fontsource/inter";
 
 function App() {
